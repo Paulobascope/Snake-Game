@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Snake Game</title>
+  <link rel="icon" href="logo1.svg" type="image/png">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="matrix"></canvas>
+
+  <div id="game-container">
+    <!-- Título do Jogo -->
+    <div id="header">
+      <h1>Snake Game</h1>
+    </div>
+
+    <!-- Pontuação -->
+    <div id="score">Score 0</div>
+
+    <!-- Jogo -->
+    <canvas id="game" width="350" height="400" tabindex="0"></canvas>
+
+    <!-- Controles -->
+    <div id="controls">
+  <button class="control-btn" id="left">◀</button>
+  <button class="control-btn" id="up">▲</button>
+  <button class="control-btn" id="down">▼</button>
+  <button class="control-btn" id="right">▶</button>
+</div>
+
+
+    <!-- Tela de Game Over -->
+    <div id="game-over">
+      Game Over<br />
+      <button id="restart-btn">Play Again</button>
+    </div>
+  </div>
+
+  <!-- Marca d'água -->
+  <div class="watermark">Paulo Bascope - Inovação 2025</div>
+
+  <script src="matrix-bg.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
