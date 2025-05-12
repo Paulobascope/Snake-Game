@@ -2,7 +2,7 @@
 
 Projeto desenvolvido por **Paulo Bascope**, com o objetivo de criar uma versão moderna e estilizada do clássico jogo da cobrinha (Snake), utilizando apenas HTML, CSS e JavaScript.
 
-![Snake Game Preview](./preview.png) <!-- Substitua por uma imagem real do jogo se quiser -->
+![Snake Game Preview](https://paulobascope.github.io/Snake-Game/./preview.png) <!-- Substitua por uma imagem real do jogo se quiser -->
 
 ---
 
