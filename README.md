@@ -38,4 +38,4 @@ Projeto desenvolvido por **Paulo Bascope**, com o objetivo de criar uma versão 
 
 (Adicione aqui uma imagem mostrando o jogo em execução)  
 ```bash
-./preview.png
+Captura de tela 2025-05-12 034840.png
